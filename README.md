@@ -210,7 +210,7 @@ Here's a comprehensive list of available commands:
 
 Note: Some commands may have multiple variants or trigger words. The AI assistant is designed to understand natural language, so slight variations in phrasing may also work.
 
-> **WARNING**: The AI assistant is not perfect and may not understand all commands. The ability to "transcribe" , "translate" and "dictate" is still somewhat flaky, and prone to break and bug out. Work in progress.
+> **WARNING**: The AI assistant is not perfect and may not understand all commands. The ability to "transcribe" , "translate" and "dictate" is still somewhat flaky, and prone to break the application and bug out. 
 
 ## License
 
