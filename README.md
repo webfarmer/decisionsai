@@ -7,7 +7,7 @@ DecisionsAI is an intelligent digital assistant designed to understand and execu
 > **IMPORTANT**: This project is currently in an experimental stage and not fully functional. It is actively being developed and updated. Contributions are deeply encouraged and welcome!
 
 <p align="center">
-  <img src="readme/example.gif" alt="DecisionsAI UI">
+  <img src="readme/example.png" alt="DecisionsAI UI">
 </p>
 
 
