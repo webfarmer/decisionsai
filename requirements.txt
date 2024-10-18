@@ -1,0 +1,25 @@
+# requires Python 3.10
+pillow
+PyQt6
+vosk
+pyobjc
+pyautogui
+#brew install portaudio
+pyaudio
+sentence-transformers
+fuzzywuzzy
+setuptools-rust
+sqlalchemy
+python-Levenshtein
+beautifulsoup4
+transformers==4.38.0
+lxml
+langchain_community
+ollama
+TTS
+git+https://github.com/openai/whisper.git
+git+https://github.com/coqui-ai/TTS.git
+torch
+torchaudio
+spacy==3.7.5
+open-interpreter
