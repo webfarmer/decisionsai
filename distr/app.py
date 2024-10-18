@@ -84,7 +84,8 @@ class Application(QtWidgets.QApplication):
         self.sound_player = SoundPlayer()
 
         self.voice_box = VoiceBoxWindow(self.sound_player)
-        self.voice_box.hide() 
+        self.voice_box.show() 
+        self.voice_box.on_sound_started()
         
         self.about_window = AboutWindow(self.sound_player)
         self.about_window.show()
@@ -122,7 +123,7 @@ class Application(QtWidgets.QApplication):
         self.oracle_window = OracleWindow(self.settings_window, self.about_window, self.voice_box, self.chat_manager)
         self.voice_box.set_oracle_window(self.oracle_window) 
         self.oracle_window.show()
-        self.sound_player.play_decisions_sound()
+        # self.sound_player.play_decisions_sound()
 
         if self.chat_manager:
             self.chat_manager.chat_created.connect(self.oracle_window.chat_window.on_chat_created)
