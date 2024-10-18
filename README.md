@@ -85,3 +85,126 @@ Watch what happens :)
 ## License
 
 This project is licensed under the CRYSTAL LOGIC (PTY) LTD COMMUNITY LICENSE AGREEMENT. See the [LICENSE.md](LICENSE.md) file for details.
+
+## Voice Commands
+
+DecisionsAI responds to a wide range of **__voice commands__**. 
+
+Here's a comprehensive list of available commands:
+
+### Navigation and Window Management
+
+| Command | Description |
+|---------|-------------|
+| Open / Focus / Focus on | Open or focus on a specific window |
+| Open file menu | Open the file menu |
+| Hide oracle / Hide globe | Hide the oracle/globe interface |
+| Show oracle / Show globe | Show the oracle/globe interface |
+| Change oracle / Change globe | Change the oracle/globe interface |
+| Open GPT | Open GPT (Alt+Space shortcut) |
+| Open spotlight / Spotlight search | Open Spotlight search (Cmd+Space) |
+| New tab | Create a new tab (Cmd+T) |
+| Previous tab | Switch to the previous tab (Cmd+Alt+Left) |
+| Next tab | Switch to the next tab (Cmd+Alt+Right) |
+| Close | Close the current window (Cmd+W) |
+| Quit | Quit the current application (Cmd+Q) |
+
+### Text Editing and Navigation
+
+| Command | Description |
+|---------|-------------|
+| Copy | Copy selected text (Cmd+C) |
+| Paste | Paste copied text (Cmd+V) |
+| Cut | Cut selected text (Cmd+X) |
+| Select all | Select all text (Cmd+A) |
+| Undo | Undo last action (Cmd+Z) |
+| Redo | Redo last undone action (Cmd+Shift+Z) |
+| Back space / Backspace | Delete character before cursor |
+| Delete | Delete character after cursor |
+| Clear line | Clear the current line |
+| Delete line | Delete the entire line (Cmd+Shift+K) |
+| Force delete | Force delete (Cmd+Backspace) |
+
+### Cursor Movement
+
+| Command | Description |
+|---------|-------------|
+| Down / Up / Left / Right | Move cursor in specified direction |
+| Page up / Page down | Scroll page up/down |
+| Home | Move cursor to beginning of line |
+| End | Move cursor to end of line |
+| Back | Move cursor back (Cmd+Left) |
+
+### Mouse Control
+
+| Command | Description |
+|---------|-------------|
+| Mouse up/down/left/right | Move mouse in specified direction |
+| Mouse slow up/down/left/right | Move mouse slowly in specified direction |
+| Move mouse center/middle | Move mouse to center of screen |
+| Move mouse vertical middle | Move mouse to vertical middle of screen |
+| Move mouse top/bottom | Move mouse to top/bottom of screen |
+| Move mouse left/right of screen | Move mouse to left/right edge of screen |
+| Right click | Perform a right-click |
+| Click | Perform a left-click |
+| Double click | Perform a double left-click |
+| Scroll up/down | Scroll the page up/down |
+
+### System Controls
+
+| Command | Description |
+|---------|-------------|
+| Refresh / Reload | Refresh the current page (Cmd+R) |
+| Pause / Stop / Play | Control media playback |
+| Next track / Previous track | Switch between tracks |
+| Mute | Mute audio |
+| Volume up / Volume down | Adjust volume |
+
+### Function Keys
+
+| Command | Description |
+|---------|-------------|
+| Press F1 through Press F12 | Press the corresponding function key |
+
+### Special Keys
+
+| Command | Description |
+|---------|-------------|
+| Space bar / Space / Spacebar | Press the space bar |
+| Control | Press the Control key |
+| Command | Press the Command key |
+| Enter this | Press the Enter key |
+| Press alt / Alt | Press the Alt key |
+| Press escape / Escape / Cancel | Press the Escape key |
+| Tab | Press the Tab key |
+
+### AI Assistant Interactions
+
+| Command | Description |
+|---------|-------------|
+| Dictate | Start dictation mode |
+| Transcribe / Listen / Listen to | Start transcription mode |
+| Read / Speak / Recite / Announce | Read out the transcribed text |
+| Agent / Hey / Jarvis | Activate the AI agent for complex tasks |
+| Explain / Elaborate | Ask for an explanation or elaboration |
+| Calculate / Figure out / Analyze | Perform calculations or analysis |
+| Translate | Translate text to another language |
+
+### Miscellaneous
+
+| Command | Description |
+|---------|-------------|
+| Copy transcription | Copy the transcribed text |
+| Action | Perform a custom action |
+| Snippet | Insert a predefined text snippet |
+
+### Control Commands
+
+| Command | Description |
+|---------|-------------|
+| Start listening / Listen / Listen to | Begin voice command recognition |
+| Stop listening / Stop / Halt | Stop voice command recognition |
+| Stop speaking / Shut up / Be quiet | Stop the AI from speaking |
+| Exit | Exit the application |
+
+Note: Some commands may have multiple variants or trigger words. The AI assistant is designed to understand natural language, so slight variations in phrasing may also work.
