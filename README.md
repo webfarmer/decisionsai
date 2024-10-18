@@ -194,7 +194,7 @@ Here's a comprehensive list of available commands:
 | Calculate / Figure out / Analyze | Perform calculations or analysis of whatevers in the clipboard. If you say "this", it will do the calculation or analysis on whatever you've selected, by copying it to the clipboard first |
 | Translate | [...from "source_language"... into "target_language"]. If you say "this", it will translate whatever you've selected, by copying it to the clipboard first. If you do not say "this", it will listen until you say "enter this". If you don't specify a language it will default the "source_language" to English. |
 
-### Miscellaneous
+### Miscellaneous (Not working yet)
 
 | Command | Description |
 |---------|-------------|
