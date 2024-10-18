@@ -22,10 +22,13 @@ DecisionsAI is an intelligent digital assistant designed to understand and execu
 
 ## Vision
 
-Our goal is to create a system assistant that:
-- Has context of your system
-- Does not get in your way
-- Actually accelerates your work
+Our vision is to develop an intelligent system assistant that:
+- Understands and adapts to your computing environment
+- Operates entirely offline when feasible
+- Is capable of running on low-power devices like Raspberry Pi, with the flexibility to delegate resource-intensive tasks to more powerful machines on the local network
+- Seamlessly integrates into your workflow without disruption
+- Significantly enhances your productivity
+- Promotes a more flexible work environment, reducing the need for constant desk presence
 
 ## Features
 
