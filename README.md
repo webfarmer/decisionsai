@@ -151,7 +151,7 @@ Here's a comprehensive list of available commands:
 | Double click | Perform a double left-click |
 | Scroll up / Scroll down | Scroll the page up/down |
 
-### System Controls
+### Sound Controls
 
 | Command | Description |
 |---------|-------------|
