@@ -47,7 +47,7 @@ Our goal is to create a system assistant that:
    pip install -r requirements.txt
    ```
 
-3. Run the setup script:
+3. Run the setup script to download the models:
    ```bash
    python setup.py
    ```

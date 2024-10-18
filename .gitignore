@@ -3,6 +3,7 @@ logs/*
 \.idea/*
 .vscode/
 \.vscode/*
+models/
 *.pyc
 .DS_Store
 .thumb
