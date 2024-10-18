@@ -192,7 +192,7 @@ Here's a comprehensive list of available commands:
 | Agent / Hey / Jarvis | Activate the AI agent for complex tasks |
 | Explain / Elaborate | explanation or elaboration of the copy that is in the clipboard. if you say "this" it will explain or elaborate on whatever you've selected, by copying it to the clipboard first |
 | Calculate / Figure out / Analyze | Perform calculations or analysis of whatevers in the clipboard. If you say "this", it will do the calculation or analysis on whatever you've selected, by copying it to the clipboard first |
-| Translate | [...from "source_language"... into "target_language"]. If you say "this", it will translate whatever you've selected, by copying it to the clipboard first |
+| Translate | [...from "source_language"... into "target_language"]. If you say "this", it will translate whatever you've selected, by copying it to the clipboard first. If you do not say "this", it will listen until you say "enter this". If you don't specify a language it will default the "source_language" to English. |
 
 ### Miscellaneous
 
