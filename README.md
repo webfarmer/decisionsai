@@ -2,6 +2,8 @@
 
 DecisionsAI is an intelligent digital assistant designed to understand and execute various tasks on your computer. It leverages cutting-edge AI technologies to provide voice interaction, automation, and adaptive learning capabilities.
 
+![DecisionsAI Screenshot](assets/screenshot.png)
+
 > **IMPORTANT**: This project is currently in an experimental stage and not fully functional. It is actively being developed and updated. Contributions are deeply encouraged and welcome!
 
 ## Vision
@@ -30,6 +32,7 @@ Our goal is to create a system assistant that:
 
 2. Install dependencies:
    ```bash
+   brew install portaudio
    pip install -r requirements.txt
    ```
 

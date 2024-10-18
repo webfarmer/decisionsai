@@ -1,9 +1,5 @@
 import AppKit
-
-# Add this line before creating the QApplication
 AppKit.NSBundle.mainBundle().infoDictionary()['LSUIElement'] = '1'
-
-from distr.actions import transcribe
 from distr.app import run
 
 # Main execution block
