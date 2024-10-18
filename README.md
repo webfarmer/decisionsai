@@ -1,2 +1,2 @@
-# decisionsai
+# DecisionsAI
 Decisions AI
