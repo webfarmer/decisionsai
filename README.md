@@ -4,6 +4,12 @@ DecisionsAI is an intelligent digital assistant designed to understand and execu
 
 ![DecisionsAI About](readme/about.png)
 
+> **WARNING**: This project currently requires significant memory resources to run. While optimization efforts are ongoing, including plans to make it compatible with a Raspberry Pi 5, it is currently being developed on an Apple M3 Max with 32GB of RAM. 
+
+The AI models used in this project collectively consume at least 6GB of memory. Therefore, it is strongly recommended to run DecisionsAI on a machine with a minimum of 16GB of RAM for optimal performance.
+
+Please note that future updates will focus on reducing the memory footprint and improving efficiency across various hardware configurations and there will be a fallback to smaller models, or API's if the system resources are too low.
+
 > **IMPORTANT**: This project is currently in an experimental stage and not fully functional. It is actively being developed and updated. Contributions are deeply encouraged and welcome!
 
 <p align="center">

@@ -32,28 +32,24 @@ def setup():
     """
     Main setup function to download and extract files.
     """
-    # Define your file URLs and their corresponding local paths
-    files_to_download = {
-        'https://example.com/file1.zip': 'downloads/file1.zip',
-        'https://example.com/file2.zip': 'downloads/file2.zip',
-    }
+    # Define the Vosk model URL and its corresponding local path
+    vosk_model_url = 'https://alphacephei.com/vosk/models/vosk-model-en-us-0.22.zip'
+    vosk_model_filename = './models/vosk-model-en-us-0.22.zip'
 
-    # Create the downloads directory if it doesn't exist
-    os.makedirs('downloads', exist_ok=True)
+    # Create the models directory if it doesn't exist
+    os.makedirs('./models', exist_ok=True)
 
-    # Download files
-    for url, filename in files_to_download.items():
-        print(f"Downloading {filename}...")
-        download_file(url, filename)
+    # Download the Vosk model
+    print(f"Downloading Vosk model...")
+    download_file(vosk_model_url, vosk_model_filename)
 
-    # Extract files
-    for filename in files_to_download.values():
-        if filename.endswith('.zip'):
-            print(f"Extracting {filename}...")
-            extract_to = os.path.splitext(filename)[0]  # Remove .zip extension
-            os.makedirs(extract_to, exist_ok=True)
-            extract_zip(filename, extract_to)
+    # Extract the Vosk model
+    print(f"Extracting Vosk model...")
+    extract_zip(vosk_model_filename, './models')
+
+    # Optionally, remove the zip file after extraction
+    os.remove(vosk_model_filename)
+    print("Vosk model setup complete.")
 
 if __name__ == "__main__":
     setup()
-
