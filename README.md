@@ -1,6 +1,10 @@
 # DecisionsAI
 DecisionsAI is an intelligent digital assistant designed to understand and execute various tasks on your computer. It leverages cutting-edge AI technologies to provide voice interaction, automation, and adaptive learning capabilities.
 
+# THIS VERSION IS EXTREMELY EXPERIMENTAL AND NOT FULLY FUNCTIONAL YET!
+# TBH -> THIS PROJECT IS COMPLETELY BROKEN, BUT WILL BE CONTINUOUSLY UPDATED!
+# CONTRIBUTIONS ARE DEEPLY ENCOURAGED AND WELCOME!
+
 ## Features
 - Voice-controlled AI assistant
 - Task automation and computer control
