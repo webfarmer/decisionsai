@@ -34,7 +34,7 @@ Our goal is to create a system assistant that:
 - Natural language processing
 - Text-to-speech and speech-to-text capabilities
 - Customizable actions and commands
-- Chat interface for text-based interactions
+- Chat interface for text-based interactions (broken)
 - Multi-model AI support (Ollama, OpenAI, Anthropic)
 
 ## Installation
@@ -62,7 +62,7 @@ Our goal is to create a system assistant that:
    python start.py
    ```
 
-2. Interact with the assistant using voice commands or the chat interface.
+2. Interact with the assistant using voice commands or the chat interface (broken).
 
 ## Contributing
 
