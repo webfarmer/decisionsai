@@ -186,13 +186,13 @@ Here's a comprehensive list of available commands:
 
 | Command | Description |
 |---------|-------------|
-| Dictate | Start dictation mode |
-| Transcribe / Listen / Listen to | Start transcription mode |
-| Read / Speak / Recite / Announce | Read out the transcribed text |
+| Dictate | Start dictation mode, enters in whatever you say, except "Enter this" |
+| Transcribe / Listen / Listen to | Start transcription mode, stores whatever you say to clipboard |
+| Read / Speak / Recite / Announce | Read out the transcribed text, or if you say "this", it will read out  whatever you've selected, by copying it to the clipboard first |
 | Agent / Hey / Jarvis | Activate the AI agent for complex tasks |
-| Explain / Elaborate | Ask for an explanation or elaboration |
-| Calculate / Figure out / Analyze | Perform calculations or analysis |
-| Translate | Translate text to another language |
+| Explain / Elaborate | explanation or elaboration of whatevers in the clipboard. if you say "this" it will explain or elaborate on whatever you've selected, by copying it to the clipboard first |
+| Calculate / Figure out / Analyze | Perform calculations or analysis of whatevers in the clipboard. If you say "this", it will do the calculation or analysis on whatever you've selected, by copying it to the clipboard first |
+| Translate | [...from "source_language"... into "target_language"]. If you say "this", it will translate whatever you've selected, by copying it to the clipboard first |
 
 ### Miscellaneous
 
