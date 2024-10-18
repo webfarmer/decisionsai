@@ -147,8 +147,8 @@ Here's a comprehensive list of available commands:
 | Move mouse vertical middle | Move mouse to vertical middle of screen |
 | Move mouse top | Move mouse to top of screen |
 | Move mouse bottom | Move mouse to bottom of screen |
-| Move mouse left of screen | Move mouse to left edge of screen |
-| Move mouse right of screen | Move mouse to right edge of screen |
+| Move mouse far left  | Move mouse to left edge of screen |
+| Move mouse far right | Move mouse to right edge of screen |
 | Right click | Perform a right-click |
 | Click | Perform a left-click |
 | Double click | Perform a double left-click |
