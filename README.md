@@ -124,30 +124,32 @@ Here's a comprehensive list of available commands:
 | Delete line | Delete the entire line (Cmd+Shift+K) |
 | Force delete | Force delete (Cmd+Backspace) |
 
-### Cursor Movement
+### Carot Movement
 
 | Command | Description |
 |---------|-------------|
-| Down / Up / Left / Right | Move cursor in specified direction |
-| Page up / Page down | Scroll page up/down |
-| Home | Move cursor to beginning of line |
-| End | Move cursor to end of line |
-| Back | Move cursor back (Cmd+Left) |
+| Up / Down / Left / Right | Move cursor in specified direction |
+| Page up / Page down | Scroll page up/down (Fn+Up/Down) |
+| Home | Move cursor to beginning of line (Fn+Left) |
+| End | Move cursor to end of line (Fn+Right) |
 
 ### Mouse Control
 
 | Command | Description |
 |---------|-------------|
-| Mouse up/down/left/right | Move mouse in specified direction |
-| Mouse slow up/down/left/right | Move mouse slowly in specified direction |
-| Move mouse center/middle | Move mouse to center of screen |
+| Mouse up / Mouse down / Mouse left / Mouse right | Move mouse in specified direction |
+| Mouse slow up / Mouse slow down / Mouse slow left / Mouse slow right | Move mouse slowly in specified direction |
+| Move mouse center | Move mouse to center of screen |
+| Move mouse middle | Move mouse to horizontal middle of screen |
 | Move mouse vertical middle | Move mouse to vertical middle of screen |
-| Move mouse top/bottom | Move mouse to top/bottom of screen |
-| Move mouse left/right of screen | Move mouse to left/right edge of screen |
+| Move mouse top | Move mouse to top of screen |
+| Move mouse bottom | Move mouse to bottom of screen |
+| Move mouse left of screen | Move mouse to left edge of screen |
+| Move mouse right of screen | Move mouse to right edge of screen |
 | Right click | Perform a right-click |
 | Click | Perform a left-click |
 | Double click | Perform a double left-click |
-| Scroll up/down | Scroll the page up/down |
+| Scroll up / Scroll down | Scroll the page up/down |
 
 ### System Controls
 
