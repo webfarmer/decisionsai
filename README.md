@@ -74,7 +74,7 @@ This project is a work in progress and will continue to be updated. We aim to ma
 
 ## Other Scripts
 
-Using Open-Interpreter, I've created a little script called `agent` that carries out tasks on your local machine:
+Using [Open-Interpreter](https://www.openinterpreter.com/), I've created a little script called `agent` that carries out tasks on your local machine:
 
 ```bash
 python ./scripts/agent.py
