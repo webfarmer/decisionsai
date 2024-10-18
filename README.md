@@ -12,6 +12,9 @@ DecisionsAI is an intelligent digital assistant designed to understand and execu
 
 > Please note that future updates will focus on reducing the memory footprint and improving efficiency across various hardware configurations and there will be a fallback to smaller models, or API's if the system resources are too low.
 
+> This project is predominately in English, but multilingual support is deeply desired.
+
+
 <p align="center">
   <img src="readme/example.png" alt="DecisionsAI UI">
 </p>
@@ -81,10 +84,6 @@ When prompted, try entering a command like:
 "Create a new text file on my desktop called vegetables.txt and put a list of 15 vegetables in it. Then open the file."
 
 Watch what happens :)
-
-## License
-
-This project is licensed under the CRYSTAL LOGIC (PTY) LTD COMMUNITY LICENSE AGREEMENT. See the [LICENSE.md](LICENSE.md) file for details.
 
 ## Voice Commands
 
@@ -178,7 +177,7 @@ Here's a comprehensive list of available commands:
 | Press escape / Escape / Cancel | Press the Escape key |
 | Tab | Press the Tab key |
 
-### AI Assistant Interactions
+### AI Assistant Interactions (THIS IS STILL A WORK IN PROGRESS)
 
 | Command | Description |
 |---------|-------------|
@@ -208,3 +207,9 @@ Here's a comprehensive list of available commands:
 | Exit | Exit the application |
 
 Note: Some commands may have multiple variants or trigger words. The AI assistant is designed to understand natural language, so slight variations in phrasing may also work.
+
+> **WARNING**: The AI assistant is not perfect and may not understand all commands. The ability to "transcribe" , "translate" and "dictate" is still somewhat flaky, and prone to break and bug out. Work in progress.
+
+## License
+
+This project is licensed under the CRYSTAL LOGIC (PTY) LTD COMMUNITY LICENSE AGREEMENT. See the [LICENSE.md](LICENSE.md) file for details.
